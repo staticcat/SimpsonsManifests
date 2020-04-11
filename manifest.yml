@@ -2,7 +2,7 @@ repos:
   - src: platform
     url: git@github.com:staticcat/Platform.git
 
-  - src: bart
+  - src: simpsons/bart
     url: git@github.com:staticcat/Bart.git
     
   - src: simpsons
